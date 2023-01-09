@@ -1,2 +1,2 @@
 # AppGitClient
-APP Practica Entornos
+Descripción proyecto APP Practica Entornos 

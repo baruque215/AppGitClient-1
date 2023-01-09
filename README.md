@@ -1,2 +1,0 @@
-# AppGitClient
-APP Practica Entornos
